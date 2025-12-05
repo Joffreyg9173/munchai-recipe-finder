@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "name": "Classic Chicken Fried Rice",
+    "ingredients": ["chicken", "rice", "egg", "garlic", "soy sauce", "green onion", "oil"],
+    "tags": ["dinner", "quick", "halal"],
+    "description": "A savory and satisfying fried rice loaded with tender chicken pieces, fluffy rice, and aromatic garlic."
+  },
+  {
+    "id": "2",
+    "name": "Garlic Butter Pasta",
+    "ingredients": ["pasta", "garlic", "butter", "parmesan", "parsley", "olive oil"],
+    "tags": ["dinner", "vegetarian", "quick"],
+    "description": "Simple yet elegant pasta tossed in golden garlic butter with a generous sprinkle of parmesan."
+  },
+  {
+    "id": "3",
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["broccoli", "carrot", "bell pepper", "garlic", "soy sauce", "ginger", "oil"],
+    "tags": ["dinner", "vegetarian", "quick", "halal"],
+    "description": "Crisp-tender vegetables wok-fried with aromatic garlic and ginger in a savory sauce."
+  },
+  {
+    "id": "4",
+    "name": "Scrambled Eggs on Toast",
+    "ingredients": ["egg", "bread", "butter", "salt", "pepper"],
+    "tags": ["breakfast", "vegetarian", "quick"],
+    "description": "Fluffy scrambled eggs served on crispy buttered toast - a breakfast classic."
+  },
+  {
+    "id": "5",
+    "name": "Chicken Curry",
+    "ingredients": ["chicken", "onion", "tomato", "garlic", "ginger", "curry powder", "coconut milk"],
+    "tags": ["dinner", "spicy", "halal"],
+    "description": "Rich and aromatic curry with tender chicken pieces simmered in creamy coconut sauce."
+  },
+  {
+    "id": "6",
+    "name": "Avocado Toast",
+    "ingredients": ["avocado", "bread", "lemon", "salt", "pepper", "olive oil"],
+    "tags": ["breakfast", "vegetarian", "quick", "snack"],
+    "description": "Creamy mashed avocado on artisan toast with a bright squeeze of lemon."
+  },
+  {
+    "id": "7",
+    "name": "Beef Tacos",
+    "ingredients": ["beef", "tortilla", "onion", "tomato", "lettuce", "cheese", "sour cream"],
+    "tags": ["dinner", "spicy"],
+    "description": "Seasoned ground beef in warm tortillas topped with fresh vegetables and creamy cheese."
+  },
+  {
+    "id": "8",
+    "name": "Vegetable Omelette",
+    "ingredients": ["egg", "bell pepper", "onion", "tomato", "cheese", "butter"],
+    "tags": ["breakfast", "vegetarian", "quick"],
+    "description": "Fluffy eggs filled with colorful sautéed vegetables and melted cheese."
+  },
+  {
+    "id": "9",
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "tags": ["snack", "vegetarian", "quick"],
+    "description": "Golden crispy bread with perfectly melted cheese - comfort food at its finest."
+  },
+  {
+    "id": "10",
+    "name": "Tofu Stir Fry",
+    "ingredients": ["tofu", "broccoli", "carrot", "garlic", "soy sauce", "ginger", "sesame oil"],
+    "tags": ["dinner", "vegetarian", "halal", "quick"],
+    "description": "Crispy pan-fried tofu with colorful vegetables in a savory Asian-inspired sauce."
+  },
+  {
+    "id": "11",
+    "name": "Spaghetti Marinara",
+    "ingredients": ["pasta", "tomato", "garlic", "basil", "olive oil", "onion"],
+    "tags": ["dinner", "vegetarian", "halal"],
+    "description": "Classic Italian pasta in a rich tomato sauce with fresh basil and garlic."
+  },
+  {
+    "id": "12",
+    "name": "Chicken Quesadilla",
+    "ingredients": ["chicken", "tortilla", "cheese", "bell pepper", "onion", "sour cream"],
+    "tags": ["dinner", "snack", "quick", "halal"],
+    "description": "Crispy tortilla filled with seasoned chicken, melted cheese, and sautéed peppers."
+  },
+  {
+    "id": "13",
+    "name": "Greek Salad",
+    "ingredients": ["cucumber", "tomato", "onion", "feta cheese", "olive oil", "oregano"],
+    "tags": ["snack", "vegetarian", "quick"],
+    "description": "Fresh Mediterranean salad with crisp vegetables and tangy feta cheese."
+  },
+  {
+    "id": "14",
+    "name": "Banana Pancakes",
+    "ingredients": ["banana", "egg", "flour", "milk", "butter", "maple syrup"],
+    "tags": ["breakfast", "vegetarian"],
+    "description": "Fluffy golden pancakes with sweet banana flavor, drizzled with maple syrup."
+  },
+  {
+    "id": "15",
+    "name": "Spicy Garlic Shrimp",
+    "ingredients": ["shrimp", "garlic", "butter", "lemon", "chili flakes", "parsley"],
+    "tags": ["dinner", "spicy", "quick"],
+    "description": "Succulent shrimp sautéed in spicy garlic butter with a bright lemon finish."
+  },
+  {
+    "id": "16",
+    "name": "Mushroom Risotto",
+    "ingredients": ["rice", "mushroom", "onion", "garlic", "butter", "parmesan", "white wine"],
+    "tags": ["dinner", "vegetarian"],
+    "description": "Creamy Italian rice dish with earthy mushrooms and rich parmesan."
+  },
+  {
+    "id": "17",
+    "name": "Egg Fried Noodles",
+    "ingredients": ["noodles", "egg", "garlic", "soy sauce", "green onion", "oil"],
+    "tags": ["dinner", "quick", "vegetarian"],
+    "description": "Quick and satisfying noodles tossed with scrambled egg and aromatic seasonings."
+  },
+  {
+    "id": "18",
+    "name": "Caprese Salad",
+    "ingredients": ["tomato", "mozzarella", "basil", "olive oil", "balsamic vinegar"],
+    "tags": ["snack", "vegetarian", "quick"],
+    "description": "Classic Italian salad with ripe tomatoes, fresh mozzarella, and fragrant basil."
+  },
+  {
+    "id": "19",
+    "name": "Chicken Caesar Salad",
+    "ingredients": ["chicken", "lettuce", "parmesan", "croutons", "caesar dressing", "lemon"],
+    "tags": ["dinner", "halal"],
+    "description": "Crisp romaine lettuce with grilled chicken, crunchy croutons, and creamy caesar dressing."
+  },
+  {
+    "id": "20",
+    "name": "Hummus with Pita",
+    "ingredients": ["chickpeas", "tahini", "garlic", "lemon", "olive oil", "pita bread"],
+    "tags": ["snack", "vegetarian", "halal"],
+    "description": "Smooth, creamy hummus served with warm pita bread for dipping."
+  },
+  {
+    "id": "21",
+    "name": "French Toast",
+    "ingredients": ["bread", "egg", "milk", "cinnamon", "butter", "maple syrup"],
+    "tags": ["breakfast", "vegetarian"],
+    "description": "Golden custard-soaked bread with warm cinnamon and sweet maple syrup."
+  },
+  {
+    "id": "22",
+    "name": "Beef Stir Fry",
+    "ingredients": ["beef", "broccoli", "garlic", "soy sauce", "ginger", "oil"],
+    "tags": ["dinner", "quick", "halal"],
+    "description": "Tender beef strips with crisp broccoli in a savory ginger-garlic sauce."
+  },
+  {
+    "id": "23",
+    "name": "Cheese Quesadilla",
+    "ingredients": ["tortilla", "cheese", "butter"],
+    "tags": ["snack", "vegetarian", "quick"],
+    "description": "Simple and delicious crispy tortilla with melted gooey cheese."
+  },
+  {
+    "id": "24",
+    "name": "Shakshuka",
+    "ingredients": ["egg", "tomato", "onion", "garlic", "bell pepper", "cumin", "paprika"],
+    "tags": ["breakfast", "vegetarian", "spicy", "halal"],
+    "description": "Poached eggs in spiced tomato sauce - a Middle Eastern breakfast classic."
+  },
+  {
+    "id": "25",
+    "name": "Potato Wedges",
+    "ingredients": ["potato", "olive oil", "garlic", "paprika", "salt", "rosemary"],
+    "tags": ["snack", "vegetarian", "halal"],
+    "description": "Crispy baked potato wedges seasoned with aromatic herbs and spices."
+  },
+  {
+    "id": "26",
+    "name": "Chicken Wrap",
+    "ingredients": ["chicken", "tortilla", "lettuce", "tomato", "mayo", "cheese"],
+    "tags": ["dinner", "quick", "halal"],
+    "description": "Tender chicken with fresh vegetables wrapped in a soft tortilla."
+  },
+  {
+    "id": "27",
+    "name": "Vegetable Soup",
+    "ingredients": ["carrot", "potato", "onion", "celery", "garlic", "vegetable broth"],
+    "tags": ["dinner", "vegetarian", "halal"],
+    "description": "Hearty and comforting soup loaded with garden vegetables."
+  },
+  {
+    "id": "28",
+    "name": "Peanut Butter Toast",
+    "ingredients": ["bread", "peanut butter", "banana", "honey"],
+    "tags": ["breakfast", "vegetarian", "quick", "snack"],
+    "description": "Creamy peanut butter on toast topped with fresh banana and drizzled honey."
+  },
+  {
+    "id": "29",
+    "name": "Lemon Herb Chicken",
+    "ingredients": ["chicken", "lemon", "garlic", "rosemary", "thyme", "olive oil"],
+    "tags": ["dinner", "halal"],
+    "description": "Juicy chicken roasted with bright lemon and fragrant Mediterranean herbs."
+  },
+  {
+    "id": "30",
+    "name": "Veggie Burger",
+    "ingredients": ["black beans", "bread", "onion", "garlic", "egg", "lettuce", "tomato"],
+    "tags": ["dinner", "vegetarian"],
+    "description": "Hearty plant-based patty with all the classic burger fixings."
+  }
+]
